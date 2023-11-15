@@ -1,2 +1,4 @@
 [lfs]
-url = "ssh://gituser@schlawg.org/home/gituser/lila-lfs.git/info/lfs"
+#url = "ssh://gituser@schlawg.org/home/gituser/lila-lfs.git/info/lfs"
+url = "https://schlawg.org/lfs"
+```
