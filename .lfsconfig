@@ -1,2 +1,2 @@
-[url]
-ssh://gituser@schlawg.org/home/gituser/lila-lfs.git/info/lfs
+[lfs]
+url = "ssh://gituser@schlawg.org/home/gituser/lila-lfs.git/info/lfs"
